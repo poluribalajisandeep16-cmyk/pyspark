@@ -2,7 +2,7 @@ from hello import hello
 
 
 def test_hello():
-  assert hello() == "Hello, World!"
+  assert file() == "hello, World!"
  
  
 assert 2 + 2 == 4
